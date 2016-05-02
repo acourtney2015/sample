@@ -1,2 +1,4 @@
 # sample
-new read
+![Build Status](https://testlink)
+
+new README
